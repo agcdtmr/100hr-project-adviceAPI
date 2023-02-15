@@ -2,13 +2,11 @@
 
 These 100 hour projects are part of the freelance work as Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
-Get unsolicited advice [here](https://100hr-project-cat-facts-api.vercel.app/)
+Get unsolicited advice [here](https://100hr-project-advice-api.vercel.app/)
 
 Check my other [100hr projects](https://github.com/agcdtmr/100hr-project-others).
 
 ## Learnings:
-
-- How to use link tag to import google fonts to html and use that font on style.css
 - Center by wrapping the contents with 2 divs (div.container & div)
 
 .container {
@@ -24,5 +22,6 @@ place-items: center;
 - Normalize CSS: Normalize CSS aims to make built-in browser styling consistent across browsers. It also corrects bugs for common browser dependencies.
 - Deploy the project to vercel
 - Where to find ready-to-use button css styling: https://getcssscan.com/css-buttons-examples
+
 
 
