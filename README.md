@@ -2,11 +2,13 @@
 
 These 100 hour projects are part of the freelance work as Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
-Get unsolicited advice [here](https://100hr-project-advice-api.vercel.app/)
+Get unsolicited advice [here](https://100hr-project-cat-facts-api.vercel.app/)
 
 Check my other [100hr projects](https://github.com/agcdtmr/100hr-project-others).
 
 ## Learnings:
+
+- How to use link tag to import google fonts to html and use that font on style.css
 - Center by wrapping the contents with 2 divs (div.container & div)
 
 .container {
