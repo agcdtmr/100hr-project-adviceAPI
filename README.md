@@ -17,6 +17,10 @@ display: grid;
 place-items: center;
 
 }
+- What's the difference between normalize.css, reset.css and style.css
+Reset CSS: CSS resets aim to remove all built-in browser styling. For example margins, paddings, font-sizes of all elements are reset to be the same.
+
+Normalize CSS: Normalize CSS aims to make built-in browser styling consistent across browsers. It also corrects bugs for common browser dependencies.
 
 - Deploy the project to vercel
 - Where to find ready-to-use button css styling: https://getcssscan.com/css-buttons-examples
